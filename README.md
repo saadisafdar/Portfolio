@@ -14,3 +14,31 @@ The React Compiler is not enabled on this template. To add it, see [this documen
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+# ReactBits Portfolio
+
+A professional developer portfolio built with React and modern animation patterns. Features interactive components, smooth animations, and a complete showcase of React development skills.
+
+## Features
+
+- 🎨 **Animated Hero Section** with typing effects and particle background
+- 🛠️ **Skills Showcase** with interactive flip cards and filtering
+- 📁 **Projects Gallery** with search and favorites functionality  
+- 💼 **Professional Resume** with timeline and downloadable PDF
+- 💬 **Contact Form** with validation and auto-save
+- 📱 **Fully Responsive** design for all devices
+
+## Tech Stack
+
+- React + Vite
+- Custom Hooks
+- CSS Animations
+- Responsive Design
+
+## Getting Started
+
+```bash
+npm install
+npm run dev 
