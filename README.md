@@ -37,8 +37,6 @@ A professional developer portfolio built with React and modern animation pattern
 - CSS Animations
 - Responsive Design
 
-## Getting Started
+## Check Out
 
-```bash
-npm install
-npm run dev 
+[- fantastic-selkie-eb2191.netlify.app](https://fantastic-selkie-eb2191.netlify.app/)
